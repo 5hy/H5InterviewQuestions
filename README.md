@@ -1,6 +1,6 @@
-# FE-Interview-Questions
-# 完整版面试题请切换到dev分支
-# 面试题更新时间 2020-04-15
+# 前端面试题-完整版面试题请切换到dev分支
+
+## 面试题更新时间 2020-04-15
 > 前端面试常考问题分类整理汇总
 
 [>> 面试问题答案综合版](https://github.com/poetries/FE-Interview-Questions/issues/2)
